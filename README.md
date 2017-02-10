@@ -1,1 +1,1 @@
-this is used to mimic loging in to the sina micro blog, just for fun
+this is used to mimic loging in to the sina micro blog, the pic is stored in pic.png locally.
